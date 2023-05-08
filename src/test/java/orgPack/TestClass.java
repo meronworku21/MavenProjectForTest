@@ -1,3 +1,5 @@
+package orgPack;
+
 public class TestClass {
 
     public void testMethod{
